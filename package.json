@@ -1,0 +1,22 @@
+{
+  "name": "svelasquez.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "light-server -s ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsvelasquezv/svelasquez.me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsvelasquezv/svelasquez.me/issues"
+  },
+  "homepage": "https://github.com/jsvelasquezv/svelasquez.me#readme",
+  "devDependencies": {
+    "light-server": "2.9.1"
+  }
+}
